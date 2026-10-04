@@ -1,31 +1,26 @@
 # Propuesta individual
 
-**Nombre:** Escribe aquí tu nombres
+**Nombre:** Emily Johanna Gomez Salinas
 
-**Usuario de GitHub:** Escribe aquí tu usuario
+**Usuario de GitHub:** Egisaa
 
 ---
 
 ## El problema
 
-> El problema en una sola frase, sin mencionar blockchain.
+> La alta barrera de entrada económica impide que la mayoría de las personas invierta en bienes raíces generadores de renta.
 
-Escribe aquí tu respuesta.
 
 ## ¿Quién lo sufre?
 
-> Quién tiene el problema y en qué situación lo vive.
+> Inversionistas minoristas y pequeños ahorradores que disponen de capitales limitados
 
-Escribe aquí tu respuesta.
 
 ## ¿Cómo se resuelve hoy y qué cuesta?
 
-> Cómo lo resuelven hoy las personas afectadas y qué les cuesta en dinero, tiempo o esfuerzo.
+> Actualmente, para invertir en finca raíz se requiere comprar una propiedad entera o participar en fondos de inversión inmobiliaria (FIIs o fiducias) que exigen montos mínimos elevados, pago de altas comisiones de administración, largos periodos de bloqueo del capital y trámites notariales complejos. Esto cuesta liquidez, altos costos de transacción y limita el acceso a oportunidades globales
 
-Escribe aquí tu respuesta.
 
 ## ¿Por qué creo que blockchain podría aportar?
 
-> Hipótesis personal, no certeza, apoyada en al menos un criterio de la Sesión 1: partes que no confían entre sí comparten un registro, histórico inalterable, o eliminar un intermediario que concentra la confianza.
-
-Escribe aquí tu respuesta.
+> La tokenización permite fraccionar un inmueble en miles de partes digitales (tokens) respaldadas legalmente. Blockchain podría aportar un registro histórico inalterable y transparente de la propiedad y la distribución automática de rentas mediante contratos inteligentes, eliminando intermediarios costosos que concentran la confianza y permitiendo la compraventa líquida de fracciones de activos en mercados secundarios 24/7.
